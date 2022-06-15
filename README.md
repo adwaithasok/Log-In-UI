@@ -15,6 +15,5 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-<img src="images/https://user-images.githubusercontent.com/107251373/173889949-caf07a6d-41f5-4486-9d32-a75e08b5581e.jpg width="110" height="10">
 
 
